@@ -1,0 +1,136 @@
+.container {
+    width: 100%;
+}
+
+.content {
+    position: relative;
+    width: 2629.41px;
+    height: 1343px;
+    background-color: #39BEF8;
+    
+}
+
+.content-item {
+    position: absolute;
+    width: 1554px;
+    height: 772px;
+    top: 306px;
+    left: 518px;
+    border-radius: 20px;
+    border: 3px solid #FFFFFF;
+    background-color: #000000;
+    opacity: 71%;
+    margin: auto;
+}
+
+.icon-click {
+    position: absolute;
+    top: 513px;
+    left: 1591px;
+}
+
+.tag-visit-figmaland {
+    position: absolute;
+    width: 598px;
+    height: 195px;
+    top: 427px;
+    left: 996px;
+    border-radius: 30.42px;
+}
+
+.visit {
+    width: 141px;
+    height: 55px;
+    top: 427px;
+    left: 1201px;
+    border-radius: 30.42px;
+    background-color: #2DC071;
+    margin: auto;
+}
+
+.visit p {
+    width: 73px;
+    height: 27px;
+    color: #FFFFFF;
+    font-family: 'Montserrat';
+    font-size: 27px;
+    font-weight: 700;
+    line-height: 54px;
+    letter-spacing: 0.3772471845149994px;
+    text-align: center;
+    margin: auto;
+}
+
+.figma-land {
+    width: 598px;
+    height: 122px;
+    position: absolute;
+    top: 500px;
+    left: 996px;
+    font-family: 'Montserrat';
+    font-size: 62px;
+    font-weight: 900;
+    line-height: 121px;
+    letter-spacing: 0.3772471845149994px;
+    text-align: left;
+    color: #94D2FF;
+    text-decoration: underline;
+}
+
+.discover {
+    width: 959px;
+    height: 72px;
+    position: absolute;
+    top: 655px;
+    left: 822px;
+    font-family:'Montserrat';
+    font-size: 48px;
+    font-weight: 500;
+    line-height: 72px;
+    letter-spacing: 0.4807019829750061px;
+    text-align: left;
+    color: #FFFFFF;
+
+}
+
+.badges {
+    position: absolute;
+    display: flex;
+    top: 787.47px;
+    left: 877px;
+    padding: 33.79px 67.58px 33.79px 67.58px;
+    border-radius: 202.75px;
+    gap: 40.67px;
+    background-color: #FFFFFF;
+    box-shadow: 0px 19.77236557006836px 28.898073196411133px 0px #00000012;
+}
+
+.footer {
+    font-family: 'Roboto';
+    display: flex;
+    position: absolute;
+    width: 2500px;
+    height: 493px;
+    top: 1421px;
+    left: 65px;
+    justify-content: space-around;
+}
+.copy-right{
+    font-size: 36px;
+    line-height: 41px;
+    letter-spacing: 0.19395539164543152px;
+    text-align: left;
+}
+.contact {
+    font-size: 35px;
+    font-weight: 400;
+    line-height: 41px;
+    letter-spacing: 0.19395539164543152px;
+    text-align: left;
+}
+.figma-logo {
+    width: 98.74px;
+    height: 99px;
+    left: 2401px;
+    position: absolute;
+}
